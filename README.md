@@ -28,4 +28,4 @@ that's it.
 
 ## TODOs
 
-+ realase to npm (for some reason)
++ release to npm (for some reason)
